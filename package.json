@@ -1,0 +1,25 @@
+{
+  "name": "ai-search-engine",
+  "version": "1.0.0",
+  "description": "An AI-style search engine built with HTML5, CSS3, Bootstrap, JavaScript and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "search-engine",
+    "ai",
+    "express",
+    "javascript",
+    "bootstrap",
+    "html5",
+    "css3"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
